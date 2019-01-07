@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Josefin+Sans');
+@import url('./pallettes/pantone.css');
+
+/* https://clrs.cc/ */
+
+:root {
+    --color-background: #000000;
+    --color-terminal-green: #41FF00;
+}
